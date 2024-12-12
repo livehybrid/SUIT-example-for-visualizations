@@ -9,7 +9,7 @@ updates:
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 10
-    target-branch: "master"
+    target-branch: "main"
     groups:
       angular:
         applies-to: version-updates
@@ -17,7 +17,7 @@ updates:
         - "@splunk*"
         
   - package-ecosystem: "github-actions"
-    target-branch: "master"
+    target-branch: "main"
     directory: "/"
     schedule:
       interval: "weekly"
