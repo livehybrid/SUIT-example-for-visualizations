@@ -41,7 +41,7 @@
     "@splunk/visualization-card": "^0.0.1",
     "@splunk/webpack-configs": "^7.0.2",
     "babel-eslint": "^10.1.0",
-    "babel-loader": "^8.0.4",
+    "babel-loader": "^9.2.1",
     "copy-webpack-plugin": "^4.5.2",
     "eslint": "^7.14.0",
     "eslint-config-airbnb": "^18.2.1",
